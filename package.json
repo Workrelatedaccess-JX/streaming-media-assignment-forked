@@ -1,0 +1,28 @@
+{
+  "name": "streaming-media-assignment-forked",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Workrelatedaccess-JX/streaming-media-assignment-forked.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Workrelatedaccess-JX/streaming-media-assignment-forked/issues"
+  },
+  "homepage": "https://github.com/Workrelatedaccess-JX/streaming-media-assignment-forked#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.10.0",
+    "globals": "^17.12.0"
+  }
+}
